@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\LeJeuDuPendu\LeJeuDuPendu\bin\Debug\netcoreapp3.1\LeJeuDuPendu.exe
+C:\Users\PC\source\repos\LeJeuDuPendu\LeJeuDuPendu\bin\Debug\netcoreapp3.1\LeJeuDuPendu.deps.json
+C:\Users\PC\source\repos\LeJeuDuPendu\LeJeuDuPendu\bin\Debug\netcoreapp3.1\LeJeuDuPendu.runtimeconfig.json
+C:\Users\PC\source\repos\LeJeuDuPendu\LeJeuDuPendu\bin\Debug\netcoreapp3.1\LeJeuDuPendu.runtimeconfig.dev.json
+C:\Users\PC\source\repos\LeJeuDuPendu\LeJeuDuPendu\bin\Debug\netcoreapp3.1\LeJeuDuPendu.dll
+C:\Users\PC\source\repos\LeJeuDuPendu\LeJeuDuPendu\bin\Debug\netcoreapp3.1\LeJeuDuPendu.pdb
+C:\Users\PC\source\repos\LeJeuDuPendu\LeJeuDuPendu\obj\Debug\netcoreapp3.1\LeJeuDuPendu.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\LeJeuDuPendu\LeJeuDuPendu\obj\Debug\netcoreapp3.1\LeJeuDuPendu.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\LeJeuDuPendu\LeJeuDuPendu\obj\Debug\netcoreapp3.1\LeJeuDuPendu.AssemblyInfo.cs
+C:\Users\PC\source\repos\LeJeuDuPendu\LeJeuDuPendu\obj\Debug\netcoreapp3.1\LeJeuDuPendu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\LeJeuDuPendu\LeJeuDuPendu\obj\Debug\netcoreapp3.1\LeJeuDuPendu.dll
+C:\Users\PC\source\repos\LeJeuDuPendu\LeJeuDuPendu\obj\Debug\netcoreapp3.1\LeJeuDuPendu.pdb
+C:\Users\PC\source\repos\LeJeuDuPendu\LeJeuDuPendu\obj\Debug\netcoreapp3.1\LeJeuDuPendu.genruntimeconfig.cache
